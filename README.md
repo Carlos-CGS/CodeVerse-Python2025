@@ -23,7 +23,7 @@ O **CodeVerse Python 2025** é um projeto semanal no qual, toda **segunda-feira 
 | 06/01/2025 | Introdução ao Projeto CodeVerse Python 2025 | [# 01 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7281972811693252608-9Qk3?utm_source=share&utm_medium=member_desktop) |
 | 13/01/2025 | O que é Lógica de Programação e Qual a sua Importância! | [# 02 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7284509493529300994-izDr?utm_source=share&utm_medium=member_desktop) |
 | 20/01/2025 | O que é uma IDE e por que utilizá-la? | [# 03 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7287046246328885249-6la8?utm_source=share&utm_medium=member_desktop)                                                                                                                                                            |
-| 27/01/2025 | [Título do Artigo 3]                                    | [Acessar Artigo no LinkedIn](#)                                                                                                                                                            |
+| 27/01/2025 | [Título do Artigo 4]                                    | [Acessar Artigo no LinkedIn](#)                                                                                                                                                            |
 
 > _Os links serão atualizados semanalmente._
 
