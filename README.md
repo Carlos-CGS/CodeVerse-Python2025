@@ -18,7 +18,7 @@ O **CodeVerse Python 2025** é um projeto semanal no qual, toda **segunda-feira 
 
 ## 🗓️ Cronograma de Publicações
 
-| Data       | Artigo/Tema                                             | Link                                                                                                                                                                                       |
+| Data       | Artigo                                            | Link                                                                                                                                                                                       |
 | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 06/01/2025 | Introdução ao Projeto CodeVerse Python 2025 | [# 01 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7281972811693252608-9Qk3?utm_source=share&utm_medium=member_desktop) |
 | 13/01/2025 | O que é Lógica de Programação e Qual a sua Importância! | [# 02 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7284509493529300994-izDr?utm_source=share&utm_medium=member_desktop) |
