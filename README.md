@@ -6,7 +6,8 @@ Bem-vindo ao **Projeto CodeVerse Python 2025**! \
 
 ## 📖 Sobre o Projeto
 
-O **CodeVerse Python 2025** é um projeto semanal no qual, toda **segunda-feira às 07:00h**, será publicado um artigo detalhado sobre diferentes aspectos da linguagem Python. A proposta é abordar desde fundamentos básicos até tópicos avançados, sempre com exemplos práticos e uma abordagem didática.
+O **CodeVerse Python 2025** é um projeto semanal no qual, toda **segunda-feira às 07:00h**, será publicado um artigo detalhado sobre diferentes aspectos da linguagem Python. A proposta é abordar desde fundamentos básicos até tópicos avançados, sempre com exemplos práticos e uma abordagem didática.\
+Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 
 ### 🚀 O que você encontrará aqui:
 
