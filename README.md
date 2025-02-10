@@ -24,9 +24,9 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 06/01/2025 | Introdução ao Projeto CodeVerse Python 2025 | [# 01 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7281972811693252608-9Qk3?utm_source=share&utm_medium=member_desktop)   |
 | 13/01/2025 | O que é Lógica de Programação e Qual a sua Importância! | [# 02 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7284509493529300994-izDr?utm_source=share&utm_medium=member_desktop) |
 | 20/01/2025 | O que é uma IDE e por que utilizá-la? | [# 03 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7287046246328885249-6la8?utm_source=share&utm_medium=member_desktop)   |
-| 27/01/2025 |  Introdução à Linguagem Python  | [# 04 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7289583053616607232-dzcj?utm_source=share&utm_medium=member_desktop)  |
+| 27/01/2025 |  Introdução à Linguagem Python | [# 04 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7289583053616607232-dzcj?utm_source=share&utm_medium=member_desktop)  |
 | 03/02/2025 | Indentação e Tipos de Dados no Python | [# 05 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/05-indenta%C3%A7%C3%A3o-e-tipos-de-dados-python-carlos-garcia-cgs-z9ngf/?trackingId=LsllBvwkYeZu5JG%2BR%2B02OA%3D%3D)         |
-| 10/02/2025 | [Título do Artigo 6]                                    | [# 06 - CODEVERSE PYTHON](#)         |
+| 10/02/2025 | Operadores Aritméticos e Comentários no Python | [# 06 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/06-operadores-aritm%C3%A9ticos-e-coment%C3%A1rios-python-carlos-garcia-cgs-eembf/?trackingId=rb9xbKEnQS%2BPW0KiLMjppQ%3D%3D)         |
 | 17/02/2025 | [Título do Artigo 7]                                    | [# 07 - CODEVERSE PYTHON](#)         |
 | 24/02/2025 | [Título do Artigo 8]                                    | [# 08 - CODEVERSE PYTHON](#)         |
 
