@@ -28,6 +28,7 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 03/02/2025 | Indentação e Tipos de Dados no Python | [# 05 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/05-indenta%C3%A7%C3%A3o-e-tipos-de-dados-python-carlos-garcia-cgs-z9ngf/?trackingId=LsllBvwkYeZu5JG%2BR%2B02OA%3D%3D)         |
 | 10/02/2025 | Operadores Aritméticos e Comentários no Python | [# 06 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/06-operadores-aritm%C3%A9ticos-e-coment%C3%A1rios-python-carlos-garcia-cgs-eembf/?trackingId=rb9xbKEnQS%2BPW0KiLMjppQ%3D%3D)         |
 | 17/02/2025 | Operadores Lógicos e Relacionais com Python | [# 07 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/operadores-l%C3%B3gicos-e-relacionais-com-python-carlos-garcia-cgs-fnv9f/?trackingId=UCqSouCs%2FGKVkQgyhoq1Tw%3D%3D)         |
+| 24/02/2025 | Vamos Falar Sobre Listas em Python | [# 08 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/08-vamos-falar-sobre-listas-em-python-carlos-garcia-cgs-u2c6f/?trackingId=Dw5hbP20f5iD6Ey8EMLVfw%3D%3D)     |
 | 03/03/2025 | [Título do Artigo 9]                                    | [# 09 - CODEVERSE PYTHON](#)         |
 | 10/03/2025 | [Título do Artigo 10]                                   | [# 10 - CODEVERSE PYTHON](#)         |
 | 17/03/2025 | [Título do Artigo 11]                                   | [# 11 - CODEVERSE PYTHON](#)         |
