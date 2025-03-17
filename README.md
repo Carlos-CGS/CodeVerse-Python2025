@@ -31,7 +31,7 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 24/02/2025 | Vamos Falar Sobre Listas em Python | [# 08 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/08-vamos-falar-sobre-listas-em-python-carlos-garcia-cgs-u2c6f/?trackingId=Dw5hbP20f5iD6Ey8EMLVfw%3D%3D)     |
 | 03/03/2025 | Manipulando Listas em Python | [# 09 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7302266510712963072-eaJ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 10/03/2025 | Estruturas de Controle / Decisão com Python! | [# 10 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7304803216624422912-gcSV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
-| 17/03/2025 | [Título do Artigo 11]                                   | [# 11 - CODEVERSE PYTHON](#)         |
+| 17/03/2025 | #11 - O Poder dos Loops em Python - Parte 1 🔄 | [# 11 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7307339949555511298-nbCh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 24/03/2025 | [Título do Artigo 12]                                   | [# 12 - CODEVERSE PYTHON](#)         |
 | 31/03/2025 | [Título do Artigo 13]                                   | [# 13 - CODEVERSE PYTHON](#)         |
 
