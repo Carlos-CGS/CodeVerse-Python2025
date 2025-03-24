@@ -32,8 +32,12 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 03/03/2025 | Manipulando Listas em Python | [# 09 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7302266510712963072-eaJ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 10/03/2025 | Estruturas de Controle / Decisão com Python! | [# 10 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7304803216624422912-gcSV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 17/03/2025 | #11 - O Poder dos Loops em Python - Parte 1 🔄 | [# 11 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7307339949555511298-nbCh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
-| 24/03/2025 | [Título do Artigo 12]                                   | [# 12 - CODEVERSE PYTHON](#)         |
+| 24/03/2025 | #12 - Loops de Repetição While & Loop Aninhado - Parte 2 | [# 12 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7309876642980532224-vuwL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 31/03/2025 | [Título do Artigo 13]                                   | [# 13 - CODEVERSE PYTHON](#)         |
+| 07/04/2025 | [Título do Artigo 14]                                   | [# 14 - CODEVERSE PYTHON](#)         |
+| 14/04/2025 | [Título do Artigo 15]                                   | [# 15 - CODEVERSE PYTHON](#)         |
+| 21/04/2025 | [Título do Artigo 16]                                   | [# 16 - CODEVERSE PYTHON](#)         |
+| 28/04/2025 | [Título do Artigo 17]                                   | [# 17 - CODEVERSE PYTHON](#)         |
 
 > _Os links serão atualizados semanalmente._
 
