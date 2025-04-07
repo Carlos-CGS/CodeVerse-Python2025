@@ -34,7 +34,7 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 17/03/2025 | O Poder dos Loops em Python - Parte 1 🔄 | [# 11 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7307339949555511298-nbCh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 24/03/2025 | Loops de Repetição While & Loop Aninhado - Parte 2 | [# 12 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7309876642980532224-vuwL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 31/03/2025 | Operadores Ternários em Python! | [# 13 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7312413420643876864-SBx7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
-| 07/04/2025 | [Título do Artigo 14]                                   | [# 14 - CODEVERSE PYTHON](#)         |
+| 07/04/2025 | O Poder das Funções em Python para Organizar Seu Código | [# 14 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7314950085254037506--Rdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 14/04/2025 | [Título do Artigo 15]                                   | [# 15 - CODEVERSE PYTHON](#)         |
 | 21/04/2025 | [Título do Artigo 16]                                   | [# 16 - CODEVERSE PYTHON](#)         |
 | 28/04/2025 | [Título do Artigo 17]                                   | [# 17 - CODEVERSE PYTHON](#)         |
