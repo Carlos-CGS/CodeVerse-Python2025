@@ -37,7 +37,11 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 07/04/2025 | O Poder das Funções em Python para Organizar Seu Código | [# 14 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7314950085254037506--Rdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 14/04/2025 | 🛠 Exemplos de Uso de Funções em Python com Aplicações Práticas | [# 15 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeverse-python-disseminarconhecimentos-activity-7317486793065488384-Jq9c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 21/04/2025 | Como criar um validador de CPF com Python🧾 | [# 16 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/16-como-criar-um-validador-de-cpf-com-python-carlos-garcia-cgs-dz7qf/?trackingId=KEzFVydgXUHJDTOKJ8sUwA%3D%3D)         |
-| 28/04/2025 | [Título do Artigo 17]                                   | [# 17 - CODEVERSE PYTHON](#)         |
+| 28/04/2025 | Gerenciamento de Dependências com Pip e Virtualenv | [# 17 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/17-gerenciamento-de-depend%25C3%25AAncias-com-pip-e-carlos-garcia-cgs-c7cif/)         |
+| 05/05/2025 | [Título do Artigo 18]                                   | [# 18 - CODEVERSE PYTHON](#)         |
+| 12/05/2025 | [Título do Artigo 19]                                   | [# 19 - CODEVERSE PYTHON](#)         |
+| 19/05/2025 | [Título do Artigo 20]                                   | [# 20 - CODEVERSE PYTHON](#)         |
+| 26/05/2025 | [Título do Artigo 21]                                   | [# 21 - CODEVERSE PYTHON](#)         |
 
 > _Os links serão atualizados semanalmente._
 
