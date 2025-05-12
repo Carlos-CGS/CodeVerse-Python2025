@@ -39,7 +39,7 @@ Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
 | 21/04/2025 | Como criar um validador de CPF com Python🧾 | [# 16 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/16-como-criar-um-validador-de-cpf-com-python-carlos-garcia-cgs-dz7qf/?trackingId=KEzFVydgXUHJDTOKJ8sUwA%3D%3D)         |
 | 28/04/2025 | Gerenciamento de Dependências com Pip e Virtualenv | [# 17 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/17-gerenciamento-de-depend%25C3%25AAncias-com-pip-e-carlos-garcia-cgs-c7cif/)         |
 | 05/05/2025 | O que é Tkinter e como usar essa Biblioteca de Interface Gráfica Python! | [# 18 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/18-o-que-%C3%A9-tkinter-e-como-usar-essa-biblioteca-de-interface-cgs-lzdmf/?trackingId=iyb1bRv5RniMk5QvjLL9Cw%3D%3D)         |
-| 12/05/2025 | [Título do Artigo 19]                                   | [# 19 - CODEVERSE PYTHON](#)         |
+| 12/05/2025 | Como criar sua Primeira Calculadora com Tkinter, descomplicando o mundo das GUIs em Python  | [# 19 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/19-como-criar-sua-primeira-calculadora-com-tkinter-o-cgs-eg2hf/?trackingId=CqWQJ43fQ9dhnkq5DVBsxw%3D%3D)         |
 | 19/05/2025 | [Título do Artigo 20]                                   | [# 20 - CODEVERSE PYTHON](#)         |
 | 26/05/2025 | [Título do Artigo 21]                                   | [# 21 - CODEVERSE PYTHON](#)         |
 
