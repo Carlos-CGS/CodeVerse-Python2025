@@ -1,21 +1,35 @@
 # 🌌 Projeto CodeVerse Python 2025
 
-Bem-vindo ao **Projeto CodeVerse Python 2025**! \
-🎉 Este repositório foi criado para organizar e compartilhar todos os artigos, tutoriais e códigos desenvolvidos ao longo dessa jornada incrível. Nosso objetivo é transformar o aprendizado da linguagem Python em algo acessível, prático e divertido para a comunidade de desenvolvedores.
-<img src="./img/Capa01.png" height="300px" width="100%">
 
-## 📖 Sobre o Projeto
+**Seja muito bem-vindo(a) ao universo do CodeVerse Python 2025!**  
+Aqui, a missão é clara: **tornar o aprendizado de Python simples, divertido e cheio de referências ao universo Marvel** — afinal, quem disse que programar precisa ser chato?
 
-O **CodeVerse Python 2025** é um projeto semanal no qual, toda **segunda-feira às 07:00h**, será publicado um artigo detalhado sobre diferentes aspectos da linguagem Python. A proposta é abordar desde fundamentos básicos até tópicos avançados, sempre com exemplos práticos e uma abordagem didática.\
-Site Oficial: https://codeverse-python-2025-e8l0v3v.gamma.site/
-
-### 🚀 O que você encontrará aqui:
-
-- **Artigos organizados**: Links para todos os artigos publicados.
-- **Códigos-fonte**: Projetos e exemplos práticos usados nos artigos.
-- **Projetos desafiadores**: Incluindo a recriação da J.A.R.V.I.S., assistente virtual do Homem de Ferro, utilizando Python.
+Sou um desenvolvedor em constante evolução, **não um especialista**, mas um eterno aprendiz que adora mergulhar em códigos, criar projetos criativos e, principalmente, compartilhar tudo isso com a comunidade. Essa jornada é feita de curiosidade, tentativas, erros, acertos... e muita paixão por tecnologia.
 
 ---
+
+## 📖 Sobre o Projeto
+O CodeVerse Python 2025 é um projeto que nasceu da vontade de mostrar que qualquer pessoa pode aprender Python — desde que tenha alguém explicando com carinho, paciência e boas analogias (e é aí que entra meu amor pelo universo Marvel! 🦸‍♂️✨).
+
+Toda segunda-feira às 07:00h, você vai encontrar aqui um novo artigo publicado no LinkedIn com explicações diretas ao ponto, exemplos práticos e comparações com personagens e conceitos da Marvel para tornar tudo mais visual e fácil de entender.
+
+## 🚀 O que você encontra por aqui:
+
+- **📚 Artigos organizados**  
+  Links de todos os conteúdos já publicados no LinkedIn.
+
+- **💻 Códigos-fonte**  
+  Projetos práticos e exemplos comentados usados nos artigos.
+
+- **🤖 Projetos desafiadores**  
+  Como o J.A.R.V.I.S., um assistente virtual inspirado no Homem de Ferro, recriado em Python!
+
+
+Se você é fã da Marvel, está aprendendo Python ou simplesmente ama tecnologia, **esse projeto é pra você**.  
+Vamos juntos, um commit por vez, conquistar esse universo de possibilidades chamado programação. 💡🚀
+
+---
+<img src="./img/Capa01.png" height="300px" width="100%">
 
 ## 🗓️ Cronograma de Publicações
 
