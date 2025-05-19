@@ -54,8 +54,13 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 28/04/2025 | Gerenciamento de Dependências com Pip e Virtualenv | [# 17 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/17-gerenciamento-de-depend%25C3%25AAncias-com-pip-e-carlos-garcia-cgs-c7cif/)         |
 | 05/05/2025 | O que é Tkinter e como usar essa Biblioteca de Interface Gráfica Python! | [# 18 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/18-o-que-%C3%A9-tkinter-e-como-usar-essa-biblioteca-de-interface-cgs-lzdmf/?trackingId=iyb1bRv5RniMk5QvjLL9Cw%3D%3D)         |
 | 12/05/2025 | Como criar sua Primeira Calculadora com Tkinter, descomplicando o mundo das GUIs em Python  | [# 19 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/19-como-criar-sua-primeira-calculadora-com-tkinter-o-cgs-eg2hf/?trackingId=CqWQJ43fQ9dhnkq5DVBsxw%3D%3D)         |
-| 19/05/2025 | [Título do Artigo 20]                                   | [# 20 - CODEVERSE PYTHON](#)         |
+| 19/05/2025 | Criando um Jogo da Velha com Python e Colorama | [# 20 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/20-criando-um-jogo-da-velha-com-python-e-colorama-cgs-mejgf/?trackingId=%2FkGeB8DZQ82RYagDmUxMdQ%3D%3D)         |
 | 26/05/2025 | [Título do Artigo 21]                                   | [# 21 - CODEVERSE PYTHON](#)         |
+| 02/06/2025 | [Título do Artigo 21]                                   | [# 22 - CODEVERSE PYTHON](#)         |
+| 09/06/2025 | [Título do Artigo 21]                                   | [# 23 - CODEVERSE PYTHON](#)         |
+| 16/06/2025 | [Título do Artigo 21]                                   | [# 24 - CODEVERSE PYTHON](#)         |
+| 23/06/2025 | [Título do Artigo 21]                                   | [# 25 - CODEVERSE PYTHON](#)         |
+| 30/06/2025 | [Título do Artigo 21]                                   | [# 26 - CODEVERSE PYTHON](#)         |
 
 > _Os links serão atualizados semanalmente._
 
