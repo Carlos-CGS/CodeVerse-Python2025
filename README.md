@@ -57,7 +57,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 19/05/2025 | Criando um Jogo da Velha com Python e Colorama | [# 20 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/20-criando-um-jogo-da-velha-com-python-e-colorama-cgs-mejgf/?trackingId=%2FkGeB8DZQ82RYagDmUxMdQ%3D%3D)         |
 | 26/05/2025 | Números mais Sorteados da Mega-Sena com Python 💰🐍 | [# 21 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/21-n%C3%BAmeros-mais-sorteados-da-mega-sena-com-python-cgs-yizff/?trackingId=yYbfOiYSQJOIbwO6msOfxA%3D%3D)         |
 | 02/06/2025 | Como Gerenciar uma Avalanche de Informações em Tempo Real (BigData)📡 | [# 22 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/22-como-gerenciar-uma-avalanche-de-informa%C3%A7%C3%B5es-em-tempo-cgs-bpzaf/?trackingId=77pzHf44D6eHZWidMbVJ%2FA%3D%3D)         |
-| 09/06/2025 | [Título do Artigo 21]                                   | [# 23 - CODEVERSE PYTHON](#)         |
+| 09/06/2025 | Desvendando a POO com Heróis da Marvel no Python 🚀 | [# 23 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/23-desvendando-poo-com-her%C3%B3is-da-marvel-python-carlos-garcia-cgs-kappf/?trackingId=4%2Bq8R%2Bbn%2BQzqsXeHRvlsjQ%3D%3D)         |
 | 16/06/2025 | [Título do Artigo 21]                                   | [# 24 - CODEVERSE PYTHON](#)         |
 | 23/06/2025 | [Título do Artigo 21]                                   | [# 25 - CODEVERSE PYTHON](#)         |
 | 30/06/2025 | [Título do Artigo 21]                                   | [# 26 - CODEVERSE PYTHON](#)         |
