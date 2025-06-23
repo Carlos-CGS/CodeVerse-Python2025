@@ -59,7 +59,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 02/06/2025 | Como Gerenciar uma Avalanche de Informações em Tempo Real (BigData)📡 | [# 22 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/22-como-gerenciar-uma-avalanche-de-informa%C3%A7%C3%B5es-em-tempo-cgs-bpzaf/?trackingId=77pzHf44D6eHZWidMbVJ%2FA%3D%3D)         |
 | 09/06/2025 | Desvendando a POO com Heróis da Marvel no Python 🚀 | [# 23 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/23-desvendando-poo-com-her%C3%B3is-da-marvel-python-carlos-garcia-cgs-kappf/?trackingId=4%2Bq8R%2Bbn%2BQzqsXeHRvlsjQ%3D%3D)         |
 | 16/06/2025 | Criando Classes e Objetos no Python: Despertando Heróis no Universo Marvel da POO 🧬 | [# 24 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-classes-e-objetos-python-despertando-her%C3%B3is-universo-cgs-forsf/?trackingId=g8ks3CgcTV2pbsP6XxKT8w%3D%3D)         |
-| 23/06/2025 | [Título do Artigo 21]                                   | [# 25 - CODEVERSE PYTHON](#)         |
+| 23/06/2025 | Os Quatro Pilares da POO - Abstração e Encapsulamento no Python🧠 | [# 25 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/25-os-quatro-pilares-da-poo-abstra%C3%A7%C3%A3o-e-python-carlos-garcia-cgs-8yijf/?trackingId=AQq7cNo%2FQpaQu5iPmaRvFg%3D%3D)         |
 | 30/06/2025 | [Título do Artigo 21]                                   | [# 26 - CODEVERSE PYTHON](#)         |
 
 > _Os links serão atualizados semanalmente._
