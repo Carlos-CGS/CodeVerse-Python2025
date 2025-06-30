@@ -60,7 +60,11 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 09/06/2025 | Desvendando a POO com Heróis da Marvel no Python 🚀 | [# 23 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/23-desvendando-poo-com-her%C3%B3is-da-marvel-python-carlos-garcia-cgs-kappf/?trackingId=4%2Bq8R%2Bbn%2BQzqsXeHRvlsjQ%3D%3D)         |
 | 16/06/2025 | Criando Classes e Objetos no Python: Despertando Heróis no Universo Marvel da POO 🧬 | [# 24 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-classes-e-objetos-python-despertando-her%C3%B3is-universo-cgs-forsf/?trackingId=g8ks3CgcTV2pbsP6XxKT8w%3D%3D)         |
 | 23/06/2025 | Os Quatro Pilares da POO - Abstração e Encapsulamento no Python🧠 | [# 25 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/25-os-quatro-pilares-da-poo-abstra%C3%A7%C3%A3o-e-python-carlos-garcia-cgs-8yijf/?trackingId=AQq7cNo%2FQpaQu5iPmaRvFg%3D%3D)         |
-| 30/06/2025 | [Título do Artigo 21]                                   | [# 26 - CODEVERSE PYTHON](#)         |
+| 30/06/2025 | 🧬 Herança e Polimorfismo: Reutilizando Código como um Vingador Pro! | [# 26 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/26-heran%C3%A7a-e-polimorfismo-reutilizando-c%C3%B3digo-como-um-cgs-rsibf/?trackingId=pKluiCydQJ6j9qWiQlsasQ%3D%3D)         |
+| 30/06/2025 | [Título do Artigo 27]                                   | [# 27 - CODEVERSE PYTHON]()         |
+| 30/06/2025 | [Título do Artigo 28]                                   | [# 28 - CODEVERSE PYTHON]()         |
+| 30/06/2025 | [Título do Artigo 29]                                   | [# 29 - CODEVERSE PYTHON]()         |
+| 30/06/2025 | [Título do Artigo 30]                                   | [# 30 - CODEVERSE PYTHON]()         |
 
 > _Os links serão atualizados semanalmente._
 
