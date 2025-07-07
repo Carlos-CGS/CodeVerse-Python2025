@@ -61,10 +61,10 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 16/06/2025 | Criando Classes e Objetos no Python: Despertando Heróis no Universo Marvel da POO 🧬 | [# 24 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-classes-e-objetos-python-despertando-her%C3%B3is-universo-cgs-forsf/?trackingId=g8ks3CgcTV2pbsP6XxKT8w%3D%3D)         |
 | 23/06/2025 | Os Quatro Pilares da POO - Abstração e Encapsulamento no Python🧠 | [# 25 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/25-os-quatro-pilares-da-poo-abstra%C3%A7%C3%A3o-e-python-carlos-garcia-cgs-8yijf/?trackingId=AQq7cNo%2FQpaQu5iPmaRvFg%3D%3D)         |
 | 30/06/2025 | 🧬 Herança e Polimorfismo: Reutilizando Código como um Vingador Pro! | [# 26 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/26-heran%C3%A7a-e-polimorfismo-reutilizando-c%C3%B3digo-como-um-cgs-rsibf/?trackingId=pKluiCydQJ6j9qWiQlsasQ%3D%3D)         |
-| 30/06/2025 | [Título do Artigo 27]                                   | [# 27 - CODEVERSE PYTHON]()         |
-| 30/06/2025 | [Título do Artigo 28]                                   | [# 28 - CODEVERSE PYTHON]()         |
-| 30/06/2025 | [Título do Artigo 29]                                   | [# 29 - CODEVERSE PYTHON]()         |
-| 30/06/2025 | [Título do Artigo 30]                                   | [# 30 - CODEVERSE PYTHON]()         |
+| 07/07/2025 | Seu Primeiro Repositório no GitHub + Publicando com GitHub Pages | [# 27 - CODEVERSE PYTHON](https://www.linkedin.com/feed/update/urn:li:ugcPost:7344870677801242624/)         |
+| 14/07/2025 | [Título do Artigo 28]                                   | [# 28 - CODEVERSE PYTHON]()         |
+| 21/07/2025 | [Título do Artigo 29]                                   | [# 29 - CODEVERSE PYTHON]()         |
+| 28/07/2025 | [Título do Artigo 30]                                   | [# 30 - CODEVERSE PYTHON]()         |
 
 > _Os links serão atualizados semanalmente._
 
