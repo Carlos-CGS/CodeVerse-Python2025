@@ -64,7 +64,11 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 07/07/2025 | Seu Primeiro Repositório no GitHub + Publicando com GitHub Pages | [# 27 - CODEVERSE PYTHON](https://www.linkedin.com/feed/update/urn:li:ugcPost:7344870677801242624/)         |
 | 14/07/2025 | 📝 Destaque-se no GitHub com um README Estratégico e Conquistas Visuais | [# 28 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/28-destaque-se-github-com-um-readme-estrat%C3%A9gico-e-conquistas-cgs-izrxf/?trackingId=zmlF1lBSHq2qLEyOgoC40g%3D%3D)         |
 | 21/07/2025 | 🔄 Git + GitHub na Prática: Como Versionar, Colaborar e Nunca Mais Perder um Projeto | [# 29 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/29-git-github-na-pr%C3%A1tica-como-versionar-colaborar-e-cgs-ahuzf/?trackingId=gkF%2BgdjN44FDbQivEH5eOA%3D%3D)         |
-| 28/07/2025 | [Título do Artigo 30]                                   | [# 30 - CODEVERSE PYTHON]()         |
+| 28/07/2025 | ⚖️GitHub com Responsabilidade: Licenças de Código e o Poder das Boas Práticas | [# 30 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/github-com-responsabilidade-licen%C3%A7as-de-c%C3%B3digo-e-o-poder-cgs-nmqif/?trackingId=LgkAjKKsTQOFsQis1RRrhA%3D%3D)         |
+| 04/08/2025 | [Título do Artigo 31]                                   | [# 31 - CODEVERSE PYTHON]()         |
+| 11/08/2025 | [Título do Artigo 32]                                   | [# 32 - CODEVERSE PYTHON]()         |
+| 18/08/2025 | [Título do Artigo 33]                                   | [# 33 - CODEVERSE PYTHON]()         |
+| 25/08/2025 | [Título do Artigo 34]                                   | [# 34 - CODEVERSE PYTHON]()         |
 
 > _Os links serão atualizados semanalmente._
 
