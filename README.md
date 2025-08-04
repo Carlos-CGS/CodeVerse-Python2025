@@ -65,7 +65,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 14/07/2025 | 📝 Destaque-se no GitHub com um README Estratégico e Conquistas Visuais | [# 28 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/28-destaque-se-github-com-um-readme-estrat%C3%A9gico-e-conquistas-cgs-izrxf/?trackingId=zmlF1lBSHq2qLEyOgoC40g%3D%3D)         |
 | 21/07/2025 | 🔄 Git + GitHub na Prática: Como Versionar, Colaborar e Nunca Mais Perder um Projeto | [# 29 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/29-git-github-na-pr%C3%A1tica-como-versionar-colaborar-e-cgs-ahuzf/?trackingId=gkF%2BgdjN44FDbQivEH5eOA%3D%3D)         |
 | 28/07/2025 | ⚖️GitHub com Responsabilidade: Licenças de Código e o Poder das Boas Práticas | [# 30 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/github-com-responsabilidade-licen%C3%A7as-de-c%C3%B3digo-e-o-poder-cgs-nmqif/?trackingId=LgkAjKKsTQOFsQis1RRrhA%3D%3D)         |
-| 04/08/2025 | [Título do Artigo 31]                                   | [# 31 - CODEVERSE PYTHON]()         |
+| 04/08/2025 | 🛰️O que são APIs, como funcionam e como usar no Python | [# 31 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/o-que-s%C3%A3o-apis-como-funcionam-e-usar-python-carlos-garcia-cgs-grq0f/?trackingId=P9YL9ymkSKSorxziGGoFrA%3D%3D)         |
 | 11/08/2025 | [Título do Artigo 32]                                   | [# 32 - CODEVERSE PYTHON]()         |
 | 18/08/2025 | [Título do Artigo 33]                                   | [# 33 - CODEVERSE PYTHON]()         |
 | 25/08/2025 | [Título do Artigo 34]                                   | [# 34 - CODEVERSE PYTHON]()         |
