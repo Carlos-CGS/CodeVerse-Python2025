@@ -67,7 +67,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 28/07/2025 | ⚖️GitHub com Responsabilidade: Licenças de Código e o Poder das Boas Práticas | [# 30 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/github-com-responsabilidade-licen%C3%A7as-de-c%C3%B3digo-e-o-poder-cgs-nmqif/?trackingId=LgkAjKKsTQOFsQis1RRrhA%3D%3D)         |
 | 04/08/2025 | 🛰️O que são APIs, como funcionam e como usar no Python | [# 31 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/o-que-s%C3%A3o-apis-como-funcionam-e-usar-python-carlos-garcia-cgs-grq0f/?trackingId=P9YL9ymkSKSorxziGGoFrA%3D%3D)         |
 | 11/08/2025 | 🤖 Dê Superpoderes ao seu Projeto J.A.R.V.I.S., Integrando a API de IA do Google Gemini no Python | [# 32 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/d%25C3%25AA-superpoderes-ao-seu-projeto-jarvis-integrando-api-de-cgs-wpavf/)         |
-| 18/08/2025 | [Título do Artigo 33]                                   | [# 33 - CODEVERSE PYTHON]()         |
+| 18/08/2025 | Criando um Analisador de Sentimentos em Segundos: Python Tradicional vs. Google Gemini | [# 33 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-um-analisador-de-sentimentos-em-segundos-python-cgs-4yecf/?trackingId=%2B1prmw5yWARYpYRYELMTzQ%3D%3D)         |
 | 25/08/2025 | [Título do Artigo 34]                                   | [# 34 - CODEVERSE PYTHON]()         |
 
 > _Os links serão atualizados semanalmente._
