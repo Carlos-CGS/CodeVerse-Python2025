@@ -2,7 +2,7 @@
 
 
 **Seja muito bem-vindo(a) ao universo do CodeVerse Python 2025!**  
-Aqui, a missão é clara: **tornar o aprendizado de Python simples, divertido e cheio de referências ao universo Marvel** — afinal, quem disse que programar precisa ser chato?
+Aqui, a missão é clara: **tornar o aprendizado de Python simples, divertido e cheio de referências ao universo Marvel** afinal, quem disse que programar precisa ser chato?
 
 Sou um desenvolvedor em constante evolução, **não um especialista**, mas um eterno aprendiz que adora mergulhar em códigos, criar projetos criativos e, principalmente, compartilhar tudo isso com a comunidade. Essa jornada é feita de curiosidade, tentativas, erros, acertos... e muita paixão por tecnologia.
 
