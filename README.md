@@ -72,7 +72,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 01/09/2025 | 🤖 Do código à vida: ensinando o Jarvis a ouvir e falar em Python | [# 35 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/do-c%C3%B3digo-%C3%A0-vida-ensinando-o-jarvis-ouvir-e-falar-em-python-cgs-9ks6f/?trackingId=Nal%2B9cjX7Uuy4VRT%2FMrLUw%3D%3D)         |
 | 08/09/2025 | 🎙️ Como a Engenharia de Prompt dá vida e Personalidade ao nosso J.A.R.V.I.S. | [# 36 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-engenharia-de-prompt-d%C3%A1-vida-e-personalidade-ao-nosso-cgs-g3nlf/?trackingId=00wc6QcVmuOIArfXVH2oRA%3D%3D)         |
 | 15/09/2025 | Como Controlar seu PC por voz com Python + OS, para abrir Apps com o J.A.R.V.I.S. | [# 37 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-controlar-seu-pc-por-voz-com-python-os-para-abrir-cgs-uqv0f/?trackingId=akDhoVRCH1NI9KmHUvyGKA%3D%3D)         |
-| 22/09/2025 | ProjetoCodeVersePython | [# 38 - CODEVERSE PYTHON](  )         |
+| 22/09/2025 | Integrando Wake Words ao nosso J.A.R.V.I.S. | [# 38 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/intergrando-wake-words-ao-nosso-jarvis-carlos-garcia-cgs-zvdvf/)  |
 | 29/09/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
 
 > _Os links serão atualizados semanalmente._
