@@ -73,7 +73,11 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 08/09/2025 | 🎙️ Como a Engenharia de Prompt dá vida e Personalidade ao nosso J.A.R.V.I.S. | [# 36 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-engenharia-de-prompt-d%C3%A1-vida-e-personalidade-ao-nosso-cgs-g3nlf/?trackingId=00wc6QcVmuOIArfXVH2oRA%3D%3D)         |
 | 15/09/2025 | Como Controlar seu PC por voz com Python + OS, para abrir Apps com o J.A.R.V.I.S. | [# 37 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-controlar-seu-pc-por-voz-com-python-os-para-abrir-cgs-uqv0f/?trackingId=akDhoVRCH1NI9KmHUvyGKA%3D%3D)         |
 | 22/09/2025 | Integrando Wake Words ao nosso J.A.R.V.I.S. | [# 38 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/intergrando-wake-words-ao-nosso-jarvis-carlos-garcia-cgs-zvdvf/)  |
-| 29/09/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
+| 29/09/2025 | Criando uma Memória Persistente para o Jarvis com Python + JSON | [# 39 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-uma-mem%C3%B3ria-persistente-para-o-jarvis-com-python-cgs-u73sf/?trackingId=c%2F0XPkOZuyOKslDGqnvRbQ%3D%3D)         |
+| 05/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
+| 12/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
+| 19/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
+| 26/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
 
 > _Os links serão atualizados semanalmente._
 
