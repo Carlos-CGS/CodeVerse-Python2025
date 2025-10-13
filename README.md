@@ -74,10 +74,10 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 15/09/2025 | Como Controlar seu PC por voz com Python + OS, para abrir Apps com o J.A.R.V.I.S. | [# 37 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-controlar-seu-pc-por-voz-com-python-os-para-abrir-cgs-uqv0f/?trackingId=akDhoVRCH1NI9KmHUvyGKA%3D%3D)         |
 | 22/09/2025 | Integrando Wake Words ao nosso J.A.R.V.I.S. | [# 38 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/intergrando-wake-words-ao-nosso-jarvis-carlos-garcia-cgs-zvdvf/)  |
 | 29/09/2025 | Criando uma Memória Persistente para o Jarvis com Python + JSON | [# 39 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-uma-mem%C3%B3ria-persistente-para-o-jarvis-com-python-cgs-u73sf/?trackingId=c%2F0XPkOZuyOKslDGqnvRbQ%3D%3D)         |
-| 05/10/2025 | Como Fazer Seu Assistente J.A.R.V.I.S. Guardar Tarefas com Python Puro | [# 40 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-fazer-seu-assistente-jarvis-guardar-tarefas-com-python-cgs-omlof/?trackingId=hPPzwfRdQwy%2FwbbiqwrIdA%3D%3D)         |
-| 12/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
-| 19/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
-| 26/10/2025 | ProjetoCodeVersePython | [# 39 - CODEVERSE PYTHON](  )         |
+| 06/10/2025 | Como Fazer Seu Assistente J.A.R.V.I.S. Guardar Tarefas com Python Puro | [# 40 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-fazer-seu-assistente-jarvis-guardar-tarefas-com-python-cgs-omlof/?trackingId=hPPzwfRdQwy%2FwbbiqwrIdA%3D%3D)         |
+| 13/10/2025 | Ensinando o J.A.R.V.I.S. a reproduzir músicas no YouTube com um simples comando de voz | [# 41 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/ensinando-o-jarvis-reproduzir-m%C3%BAsicas-youtube-com-um-simples-cgs-bv7af/?trackingId=5gdXk6hfQhxvwnYxtiQc%2FQ%3D%3D)         |
+| 20/10/2025 | ProjetoCodeVersePython | [# 42 - CODEVERSE PYTHON](  )         |
+| 27/10/2025 | ProjetoCodeVersePython | [# 43 - CODEVERSE PYTHON](  )         |
 
 > _Os links serão atualizados semanalmente._
 
