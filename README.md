@@ -76,8 +76,12 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 29/09/2025 | Criando uma Memória Persistente para o Jarvis com Python + JSON | [# 39 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/criando-uma-mem%C3%B3ria-persistente-para-o-jarvis-com-python-cgs-u73sf/?trackingId=c%2F0XPkOZuyOKslDGqnvRbQ%3D%3D)         |
 | 06/10/2025 | Como Fazer Seu Assistente J.A.R.V.I.S. Guardar Tarefas com Python Puro | [# 40 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-fazer-seu-assistente-jarvis-guardar-tarefas-com-python-cgs-omlof/?trackingId=hPPzwfRdQwy%2FwbbiqwrIdA%3D%3D)         |
 | 13/10/2025 | Ensinando o J.A.R.V.I.S. a reproduzir músicas no YouTube com um simples comando de voz | [# 41 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/ensinando-o-jarvis-reproduzir-m%C3%BAsicas-youtube-com-um-simples-cgs-bv7af/?trackingId=5gdXk6hfQhxvwnYxtiQc%2FQ%3D%3D)         |
-| 20/10/2025 | ProjetoCodeVersePython | [# 42 - CODEVERSE PYTHON](  )         |
+| 20/10/2025 | 🎶JARVIS DJ: Criando Playlists Inteligentes e Comandos Musicais com Python | [# 42 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-dj-criando-playlists-inteligentes-e-comandos-musicais-cgs-g5xpf/?trackingId=3%2Fcj%2BFQF1a58TNJ81S4VSA%3D%3D)         |
 | 27/10/2025 | ProjetoCodeVersePython | [# 43 - CODEVERSE PYTHON](  )         |
+| 03/11/2025 | ProjetoCodeVersePython | [# 44 - CODEVERSE PYTHON](  )         |
+| 10/11/2025 | ProjetoCodeVersePython | [# 45 - CODEVERSE PYTHON](  )         |
+| 17/11/2025 | ProjetoCodeVersePython | [# 46 - CODEVERSE PYTHON](  )         |
+| 24/11/2025 | ProjetoCodeVersePython | [# 47 - CODEVERSE PYTHON](  )         |
 
 > _Os links serão atualizados semanalmente._
 
