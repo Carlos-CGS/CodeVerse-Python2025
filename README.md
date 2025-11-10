@@ -79,7 +79,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 20/10/2025 | 🎶JARVIS DJ: Criando Playlists Inteligentes e Comandos Musicais com Python | [# 42 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-dj-criando-playlists-inteligentes-e-comandos-musicais-cgs-g5xpf/?trackingId=3%2Fcj%2BFQF1a58TNJ81S4VSA%3D%3D)         |
 | 27/10/2025 | 🧠Jarvis com Memória Contextual: lembrando do que foi dito na conversa | [# 43 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-com-mem%C3%B3ria-contextual-lembrando-do-que-foi-dito-cgs-slenf/?trackingId=v6sA6DNQgOqXeN6vXECKkw%3D%3D)         |
 | 03/11/2025 | 🎙️Jarvis 1/4 : Dando Voz, Identidade e Interface ao Nosso Assistente | [# 44 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeversepython-jarvis-disseminarconhecimentos-activity-7391051555296399360-2uHk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
-| 10/11/2025 | ProjetoCodeVersePython | [# 45 - CODEVERSE PYTHON](  )         |
+| 10/11/2025 | 🗣️Jarvis 2/4: “Oi, Jarvis!” - Dando Comandos Reais ao Nosso Assistente | [# 45 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-24-oi-dando-comandos-reais-ao-nosso-assistente-cgs-bcktf/?trackingId=Q2699DYLRlS46RumZcabpw%3D%3D)         |
 | 17/11/2025 | ProjetoCodeVersePython | [# 46 - CODEVERSE PYTHON](  )         |
 | 24/11/2025 | ProjetoCodeVersePython | [# 47 - CODEVERSE PYTHON](  )         |
 
