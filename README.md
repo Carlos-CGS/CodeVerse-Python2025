@@ -7,8 +7,8 @@ Aqui, a missão é clara: **tornar o aprendizado de Python simples, divertido e 
 Sou um desenvolvedor em constante evolução, **não um especialista**, mas um eterno aprendiz que adora mergulhar em códigos, criar projetos criativos e, principalmente, compartilhar tudo isso com a comunidade. Essa jornada é feita de curiosidade, tentativas, erros, acertos... e muita paixão por tecnologia.
 
 ---
-
 <img src="./img/capa02.png" height="300px" width="100%">
+
 ## 📖 Sobre o Projeto
 O CodeVerse Python 2025 é um projeto que nasceu da vontade de mostrar que qualquer pessoa pode aprender Python — desde que tenha alguém explicando com carinho, paciência e boas analogias (e é aí que entra meu amor pelo universo Marvel! 🦸‍♂️✨).
 
