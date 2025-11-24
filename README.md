@@ -81,7 +81,12 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 03/11/2025 | 🎙️Jarvis 1/4 : Dando Voz, Identidade e Interface ao Nosso Assistente | [# 44 - CODEVERSE PYTHON](https://www.linkedin.com/posts/carlos-cgs_codeversepython-jarvis-disseminarconhecimentos-activity-7391051555296399360-2uHk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEyge1cBtl8d4Noh69HabZFN9Dk1emNWjUI)         |
 | 10/11/2025 | 🗣️Jarvis 2/4: “Oi, Jarvis!” - Dando Comandos Reais ao Nosso Assistente | [# 45 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-24-oi-dando-comandos-reais-ao-nosso-assistente-cgs-bcktf/?trackingId=Q2699DYLRlS46RumZcabpw%3D%3D)         |
 | 17/11/2025 | 🤖 Jarvis 3/4: Conectando: Clima, Internet e Inteligência Artificial | [# 46 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-34-conectando-clima-internet-e-intelig%C3%AAncia-artificial-cgs-kekcf/?trackingId=tDEeLH1kgVUEYz%2B45MZpJg%3D%3D)         |
-| 24/11/2025 | ProjetoCodeVersePython | [# 47 - CODEVERSE PYTHON](  )         |
+| 24/11/2025 | 🤖 Jarvis 4/4: Unindo Tudo em um Assistente Completo Python | [# 47 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-44-unindo-tudo-em-um-assistente-completo-python-cgs-152yf/?trackingId=OXcQA2jE8FNppWWCsefH2A%3D%3D)         |
+| 01/12/2025 | ProjetoCodeVersePython | [# 48 - CODEVERSE PYTHON](  )         |
+| 08/12/2025 | ProjetoCodeVersePython | [# 49 - CODEVERSE PYTHON](  )         |
+| 15/12/2025 | ProjetoCodeVersePython | [# 50 - CODEVERSE PYTHON](  )         |
+| 22/12/2025 | ProjetoCodeVersePython | [# 51 - CODEVERSE PYTHON](  )         |
+| 29/12/2025 | ProjetoCodeVersePython | [# 52 - CODEVERSE PYTHON](  )         |
 
 > _Os links serão atualizados semanalmente._
 
