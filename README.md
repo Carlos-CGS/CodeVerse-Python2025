@@ -8,6 +8,7 @@ Sou um desenvolvedor em constante evolução, **não um especialista**, mas um e
 
 ---
 <img src="./img/Capa02.png" height="300px" width="100%">
+
 ## 📖 Sobre o Projeto
 O CodeVerse Python 2025 é um projeto que nasceu da vontade de mostrar que qualquer pessoa pode aprender Python — desde que tenha alguém explicando com carinho, paciência e boas analogias (e é aí que entra meu amor pelo universo Marvel! 🦸‍♂️✨).
 
