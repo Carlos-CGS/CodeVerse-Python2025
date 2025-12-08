@@ -82,8 +82,8 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 10/11/2025 | 🗣️Jarvis 2/4: “Oi, Jarvis!” - Dando Comandos Reais ao Nosso Assistente | [# 45 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-24-oi-dando-comandos-reais-ao-nosso-assistente-cgs-bcktf/?trackingId=Q2699DYLRlS46RumZcabpw%3D%3D)         |
 | 17/11/2025 | 🤖 Jarvis 3/4: Conectando: Clima, Internet e Inteligência Artificial | [# 46 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-34-conectando-clima-internet-e-intelig%C3%AAncia-artificial-cgs-kekcf/?trackingId=tDEeLH1kgVUEYz%2B45MZpJg%3D%3D)         |
 | 24/11/2025 | 🤖 Jarvis 4/4: Unindo Tudo em um Assistente Completo Python | [# 47 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-44-unindo-tudo-em-um-assistente-completo-python-cgs-152yf/?trackingId=OXcQA2jE8FNppWWCsefH2A%3D%3D)         |
-| 01/12/2025 | ProjetoCodeVersePython | [# 48 - CODEVERSE PYTHON](  )         |
-| 08/12/2025 | ProjetoCodeVersePython | [# 49 - CODEVERSE PYTHON](  )         |
+| 01/12/2025 | 🎨Como o PowerPoint pode ser o seu Superpoder na hora de Criar Capas para Seus Projetos | [# 48 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-o-powerpoint-pode-ser-seu-superpoder-na-hora-de-criar-cgs-wt9rf/?trackingId=D6O3k7%2F6imsk0S5CGlm4JQ%3D%3D)         |
+| 08/12/2025 | 🎥OBS Studio para Devs: Mostre seus projetos como um profissional usando ferramentas gratuitas | [# 49 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/obs-studio-para-devs-mostre-seus-projetos-como-um-profissional-cgs-wxrtf/?trackingId=KS80Yo2kXz19VpDF7g5eIQ%3D%3D)         |
 | 15/12/2025 | ProjetoCodeVersePython | [# 50 - CODEVERSE PYTHON](  )         |
 | 22/12/2025 | ProjetoCodeVersePython | [# 51 - CODEVERSE PYTHON](  )         |
 | 29/12/2025 | ProjetoCodeVersePython | [# 52 - CODEVERSE PYTHON](  )         |
