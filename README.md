@@ -84,7 +84,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 24/11/2025 | 🤖 Jarvis 4/4: Unindo Tudo em um Assistente Completo Python | [# 47 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/jarvis-44-unindo-tudo-em-um-assistente-completo-python-cgs-152yf/?trackingId=OXcQA2jE8FNppWWCsefH2A%3D%3D)         |
 | 01/12/2025 | 🎨Como o PowerPoint pode ser o seu Superpoder na hora de Criar Capas para Seus Projetos | [# 48 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/como-o-powerpoint-pode-ser-seu-superpoder-na-hora-de-criar-cgs-wt9rf/?trackingId=D6O3k7%2F6imsk0S5CGlm4JQ%3D%3D)         |
 | 08/12/2025 | 🎥OBS Studio para Devs: Mostre seus projetos como um profissional usando ferramentas gratuitas | [# 49 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/obs-studio-para-devs-mostre-seus-projetos-como-um-profissional-cgs-wxrtf/?trackingId=KS80Yo2kXz19VpDF7g5eIQ%3D%3D)         |
-| 15/12/2025 | ProjetoCodeVersePython | [# 50 - CODEVERSE PYTHON](  )         |
+| 15/12/2025 | ✂️CapCut para Devs: Transformando Gravações em Vídeos Profissionais | [# 50 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/capcut-para-devs-transformando-grava%25C3%25A7%25C3%25B5es-em-v%25C3%25ADdeos-carlos-garcia-cgs-b4qef/)         |
 | 22/12/2025 | ProjetoCodeVersePython | [# 51 - CODEVERSE PYTHON](  )         |
 | 29/12/2025 | ProjetoCodeVersePython | [# 52 - CODEVERSE PYTHON](  )         |
 
