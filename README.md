@@ -86,7 +86,7 @@ Vamos juntos, um commit por vez, conquistar esse universo de possibilidades cham
 | 08/12/2025 | 🎥OBS Studio para Devs: Mostre seus projetos como um profissional usando ferramentas gratuitas | [# 49 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/obs-studio-para-devs-mostre-seus-projetos-como-um-profissional-cgs-wxrtf/?trackingId=KS80Yo2kXz19VpDF7g5eIQ%3D%3D)         |
 | 15/12/2025 | ✂️CapCut para Devs: Transformando Gravações em Vídeos Profissionais | [# 50 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/capcut-para-devs-transformando-grava%25C3%25A7%25C3%25B5es-em-v%25C3%25ADdeos-carlos-garcia-cgs-b4qef/)         |
 | 22/12/2025 | 📱A arte de usar Redes Sociais como Dev, sem ser consumido por elas | [# 51 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/arte-de-usar-redes-sociais-como-dev-sem-ser-consumido-cgs-cpivf/?trackingId=Rnv%2FcDj%2BSweHYoOs6xV0yA%3D%3D)         |
-| 29/12/2025 | ProjetoCodeVersePython | [# 52 - CODEVERSE PYTHON](  )         |
+| 29/12/2025 | CodeVersePython2025: Missão Cumprida - 52/52 | [# 52 - CODEVERSE PYTHON](https://www.linkedin.com/pulse/codeversepython2025-miss%25C3%25A3o-cumprida-5252-carlos-garcia-cgs-ca87e/)         |
 
 > _Os links serão atualizados semanalmente._
 
